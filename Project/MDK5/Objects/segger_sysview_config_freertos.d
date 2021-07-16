@@ -1,0 +1,15 @@
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\SEEGER\SystemView\Src\Sample\FreeRTOSV10\Config\SEGGER_SYSVIEW_Config_FreeRTOS.c
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\FreeRTOS\include\FreeRTOS.h
+.\objects\segger_sysview_config_freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\segger_sysview_config_freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\segger_sysview_config_freertos.o: ..\..\User\FreeRTOSConfig.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\SEEGER\SystemView\Src\Sample\FreeRTOSV10\SEGGER_SYSVIEW_FreeRTOS.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\SEEGER\SystemView\Src\SEGGER\SEGGER_SYSVIEW.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\SEEGER\SystemView\Src\SEGGER\SEGGER.h
+.\objects\segger_sysview_config_freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\SEEGER\SystemView\Src\Config\Global.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\FreeRTOS\include\projdefs.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\FreeRTOS\include\portable.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\FreeRTOS\include\deprecated_definitions.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+.\objects\segger_sysview_config_freertos.o: ..\..\Libraries\FreeRTOS\include\mpu_wrappers.h
