@@ -1,5 +1,5 @@
 Dependencies for Project 'RoboMaster', Target 'STM32F427VITx': (DO NOT MODIFY !)
-F (..\..\README.md)(0x60E82511)()
+F (..\..\README.md)(0x60F8ED44)()
 F (..\..\User\stm32f4xx_it.c)(0x60E708EF)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\Libraries\CMSIS\Include -I ..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include -I ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\..\Libraries\SEEGER\SystemView\Src\SEGGER -I ..\..\Libraries\SEEGER\SystemView\Src\Sample\FreeRTOSV10 -I ..\..\Libraries\SEEGER\SystemView\Src\Config -I ..\..\Libraries\FreeRTOS\include -I ..\..\Libraries\FreeRTOS\portable\RVDS\ARM_CM4F -I ..\..\BSP -I ..\..\Devices -I ..\..\Apps -I ..\..\Tasks -I ..\..\User-I.\RTE\_STM32F427VITx-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.5.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F427xx -DHSE_VALUE="12000000" -DUSE_STDPERIPH_DRIVER -DSTM32F427_437xx -DARM_MATH_CM4 -D__CC_ARM -D__FPU_USED="1" -D__FPU_PRESENT="1"-o .\objects\stm32f4xx_it.o --omf_browse .\objects\stm32f4xx_it.crf --depend .\objects\stm32f4xx_it.d)
 I (..\..\User\stm32f4xx_it.h)(0x5D4BB4D6)
 I (..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5D4BB4D6)
