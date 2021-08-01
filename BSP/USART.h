@@ -19,7 +19,7 @@
 /********USART1_Pin_define_END********/
 
 /********USART1_Priority_define************/
-#define USART1_MAIN_PRIORITY 5
+#define USART1_MAIN_PRIORITY 6
 #define USART1_SUB_PRIORITY  0
 /********USART1_Priority_define_END********/
 
@@ -43,7 +43,7 @@
 /********USART2_Pin_define_END********/
 
 /********USART2_Priority_define************/
-#define USART2_MAIN_PRIORITY 5
+#define USART2_MAIN_PRIORITY 6
 #define USART2_SUB_PRIORITY  0
 /********USART2_Priority_define_END********/
 
@@ -66,7 +66,7 @@
 /********USART3_Pin_define_END********/
 
 /********USART3_Priority_define************/
-#define USART3_MAIN_PRIORITY 5
+#define USART3_MAIN_PRIORITY 6
 #define USART3_SUB_PRIORITY  0
 /********USART3_Priority_define_END********/
 
@@ -89,7 +89,7 @@
 /********UART4_Pin_define_END********/
 
 /********UART4_Priority_define************/
-#define UART4_MAIN_PRIORITY 5
+#define UART4_MAIN_PRIORITY 6
 #define UART4_SUB_PRIORITY  0
 /********UART4_Priority_define_END********/
 
@@ -112,7 +112,7 @@
 /********USART6_Pin_define_END********/
 
 /********USART6_Priority_define************/
-#define USART6_MAIN_PRIORITY 5
+#define USART6_MAIN_PRIORITY 6
 #define USART6_SUB_PRIORITY  0
 /********USART6_Priority_define_END********/
 
